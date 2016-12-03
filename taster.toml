@@ -1,0 +1,4 @@
+[test-bm]
+command = "run"
+args = ["--release"]
+regexs = ["(dur): ([0-9.]+)"]

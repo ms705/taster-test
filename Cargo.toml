@@ -1,0 +1,4 @@
+[package]
+name = "taster-test"
+version = "0.0.1"
+authors = ["Malte Schwarzkopf <malte@csail.mit.edu>"]
