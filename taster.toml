@@ -1,6 +1,8 @@
+version = 2
+
 [test-bm]
-command = "run"
-args = ["--release"]
+command = "cargo"
+args = ["run", "--release"]
 regexs = ["(dur): ([0-9.]+)"]
 
 [slack-aliases]
